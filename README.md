@@ -2,25 +2,8 @@
 
 ## 📸 Responsive Fotomatic
 
-Welcome to the **Responsive Fotomatic** project! Our goal is to fix and enhance the responsiveness of the Fotomatic website. Using provided design specs, we'll debug and update the site to ensure it looks great on all devices.
+Welcome to the **Responsive Fotomatic** project! This project is part of the Codecademy curriculum, where the task is to fix and enhance the responsiveness of the Fotomatic website. Using the provided design specs, I will debug and update the site to ensure it looks great on all devices.
 
----
-
-## 🚀 Getting Started
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/your-username/responsive-fotomatic.git
-    cd responsive-fotomatic
-    ```
-
-2. **Open the project**:
-    Open the project in your preferred code editor.
-
-3. **Start a local server**:
-    Use a local server to view the project in your browser (e.g., Live Server in VSCode).
-
----
 
 ## 📝 Tasks
 
@@ -49,11 +32,6 @@ Welcome to the **Responsive Fotomatic** project! Our goal is to fix and enhance 
 - **CSS Flexbox and Grid**
 - **Media Queries**
 
----
-
-## 📦 Submission
-
-After completing the tasks, push your changes and submit the project link.
 
 ---
 
@@ -74,6 +52,3 @@ After completing the tasks, push your changes and submit the project link.
   <tr>
     <td align="center"><a href="https://github.com/steguess"><img src="https://avatars.githubusercontent.com/u/86976901?v=4" width="90px;" alt="Stephanie Gessler"/><br /><sub><b>Stephanie Gessler</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=steguess" title="Frontend Developer">💻</a></td>
 
----
-
-By following these guidelines, you'll ensure the project is well-documented and appealing for readers, making it easier for them to understand the tasks and progress of the Responsive Fotomatic project.
