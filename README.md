@@ -61,6 +61,18 @@ After completing the tasks, push your changes and submit the project link.
 - [Chrome DevTools Documentation](https://developer.chrome.com/docs/devtools/)
 - [Responsive Web Design Basics](https://developers.google.com/web/fundamentals/design-and-ux/responsive)
 
+## Author 👤
+
+ :tada:
+
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/steguess"><img src="https://avatars.githubusercontent.com/u/86976901?v=4" width="90px;" alt="Stephanie Gessler"/><br /><sub><b>Stephanie Gessler</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=steguess" title="Frontend Developer">💻</a></td>
+
 ---
 
 By following these guidelines, you'll ensure the project is well-documented and appealing for readers, making it easier for them to understand the tasks and progress of the Responsive Fotomatic project.
