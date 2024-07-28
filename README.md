@@ -40,6 +40,13 @@ Welcome to the **Responsive Fotomatic** project! This project is part of the Cod
 - [Chrome DevTools Documentation](https://developer.chrome.com/docs/devtools/)
 - [Responsive Web Design Basics](https://developers.google.com/web/fundamentals/design-and-ux/responsive)
 
+---
+
+##  🚀 Result
+
+<img src="fotomatic_broken/responsive_design.png">
+
+
 ## Author 👤
 
  :tada:
