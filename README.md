@@ -1,4 +1,4 @@
-<img src="fotomatic_broken/Banner_respons_design.jpg" width="800">
+<img src="fotomatic_broken/Banner_respons_design.jpg" >
 
 ## 📸 Responsive Fotomatic
 
